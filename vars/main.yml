@@ -1,0 +1,16 @@
+---
+
+libvirt_host_packages:
+  - bridge-utils
+  - qemu-img
+  - qemu-kvm
+  - qemu-kvm-tools
+  - libvirt
+  - libvirt-client
+  - libvirt-python
+  - virt-install
+  - virt-top
+  - libguestfs
+  - libguestfs-tools
+  - libguestfs-tools-c
+  - uuid

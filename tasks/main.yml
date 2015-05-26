@@ -1,0 +1,13 @@
+---
+
+- name: Install packages
+  yum:
+    name: "{{ item }}"
+    state: latest
+  with_items: libvirt_host_packages
+
+- name: Enable and start libvirtd
+  service:
+    name: libvirtd
+    enabled: yes
+    state: started
