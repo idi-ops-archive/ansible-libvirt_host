@@ -21,14 +21,3 @@ None.
 
 Example Playbook
 ----------------
-
-
-License
--------
-
-MIT
-
-Author Information
-------------------
-
-Created by [Giovanni Tirloni](http://gtirloni.com)
