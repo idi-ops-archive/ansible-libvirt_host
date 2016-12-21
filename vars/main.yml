@@ -13,4 +13,5 @@ libvirt_host_packages:
   - libguestfs
   - libguestfs-tools
   - libguestfs-tools-c
+  - libguestfs-xfs
   - uuid
